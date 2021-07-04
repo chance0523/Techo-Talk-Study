@@ -1,4 +1,4 @@
-# 교착상태
+# API vs Library vs Framework
 
 ##### [영상 링크](https://youtu.be/FXzBRD3CPlQ)
 
