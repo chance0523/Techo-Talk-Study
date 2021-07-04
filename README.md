@@ -10,3 +10,7 @@
 4. _(master)_ README.md에 표로 스터디 현황을 정리한다.
 5. 영상만으로 부족한 부분은 추가로 찾아보며 공부한다.
 6. CS Level UP !
+
+git fork로 작업하시면 되겠습니다.
+- [fork 사용하기1](https://data-make.tistory.com/228)
+- [fork 사용하기2](https://engineering-skcc.github.io/github%20pages/github-pages-fork-1/)
