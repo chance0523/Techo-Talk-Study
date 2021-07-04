@@ -42,7 +42,7 @@ git fork로 작업하시면 되겠습니다.
 -   JVM Stack & Heap - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/JVM%20Stack%20%26%20Heap), [영상](https://youtu.be/UzaGOXKVhwU)
 -   CORS (3) - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/CORS), [영상](https://youtu.be/-2TgkKYmJt4)
 -   Spring IoC/DI - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/Spring%20IoC%2C%20DI), [영상](https://youtu.be/_OI9mKuFb7c)
--   AOP - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/AOP), [영상](https://youtu.be/Hm0w_9ngDpM) [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/AOP)
+-   AOP - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/AOP), [영상](https://youtu.be/Hm0w_9ngDpM)
 -   scale up vs scale out, SPOF - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/scale%20up%20vs%20scale%20out%2C%20SPOF), [영상](https://youtu.be/6wPr2jgdDxM)
 -   DB Optimizer - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/DB%20Optimizer), [영상](https://youtu.be/dP0MIgyrqlo)
 -   Clustered vs Non-clustered Index - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/Clustered%20vs%20Non-clustered%20Index), [영상](https://youtu.be/js4y5VDknfA)
