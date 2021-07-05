@@ -4,4 +4,4 @@
 
 ### 이 영상을 시청한 사람
 
--
+- [Minchul Son](https://github.com/MinChul-Son)
