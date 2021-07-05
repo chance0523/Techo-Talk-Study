@@ -2,7 +2,10 @@
 
 우아한테크코스 '10분 테코톡' 스터디입니다.
 
-> since 2021.07.04
+> since 2021.07.04 <br>
+> author: [chance0523](https://github.com/chance0523)
+
+\>\>\> [오픈카톡방 링크](https://open.kakao.com/o/gPC2dtmd)
 
 ### 스터디 방향: (주기는 이틀에 한 번 정도면 좋을 것 같아요)
 
