@@ -2,6 +2,7 @@
 
 우아한테크코스 '10분 테코톡' 스터디입니다.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchance0523%2FTecho-Talk-Study&count_bg=%233D96C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 > since 2021.07.04 <br>
 > author: [chance0523](https://github.com/chance0523)
 
