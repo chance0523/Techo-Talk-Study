@@ -30,6 +30,8 @@ git fork로 작업하시면 되겠습니다.
 ## 영상 목록
 > 괄호 안의 숫자는 해당 주제을 담고 있는 영상의 숫자입니다. 필요 시에 더 찾아보면 좋겠죠?
 
+#### 테코톡 유튜브에는 있지만 아래에 없는 주제는 PR 통해 추가해주셔도 됩니다! (레포 + 영상. 해당 주제에 주제가 여러 개일 경우 영상 하나만 올려주세요)
+
 -   Process & Thread (3)(타미좌?) - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/Process%26Thread), [영상](https://youtu.be/1grtWKqTn50)
 -   Web Server vs WAS (3)(다른 영상들도 평이 좋네요) - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/Web%20Server%20vs%20WAS), [영상](https://youtu.be/NyhbNtOq0Bc)
 -   Forward Proxy vs Reverse Proxy, Load Balancer (3)(제이미좌?) - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/Forward%20Proxy%20vs%20Reverse%20Proxy%2C%20Load%20Balancer), [영상](https://youtu.be/YxwYhenZ3BE)
