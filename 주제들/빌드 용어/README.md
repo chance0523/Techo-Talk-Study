@@ -5,3 +5,4 @@
 ### 이 영상을 시청한 사람
 
 - [TaeBeomShin](https://github.com/TaeBeomShin)
+- [chance0523](https://github.com/chance0523)
