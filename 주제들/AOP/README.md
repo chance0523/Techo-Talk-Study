@@ -4,4 +4,4 @@
 
 ### 이 영상을 시청한 사람
 
--
+- [kwj1270](https://github.com/kwj1270/TIL_Seminar/blob/master/AOP.md)
