@@ -10,4 +10,4 @@
 - [Minchul](https://github.com/MinChul-Son)
 - [Hongcheol](https://github.com/hongcheol)
 - [moonsbeen626](https://github.com/moonsbeen626)
-- [ironpark94](https://velog.io/@ironpark94/WebServer-VS-WAS)
+- [ironpark94](https://github.com/ironpark94)
