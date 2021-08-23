@@ -71,3 +71,4 @@ git fork로 작업하시면 되겠습니다.
 -   Redis - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/Redis), [영상](https://youtu.be/Gimv7hroM8A)
 -   Spring Batch - [레포](https://github.com/samuel950523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/Spring%20Batch), [영상](https://youtu.be/1xJU8HfBREY)
 -   프론트엔드에서의 테스트 종류 - [레포](https://github.com/chaselover/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C%EC%9D%98%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A2%85%EB%A5%98), [영상](https://www.youtube.com/watch?v=pkYUcKWOqPs&list=RDCMUC-mOekGSesms0agFntnQang&start_radio=1&t=196s)
+-   리눅스 메모리 관리 - [레포](https://github.com/chance0523/Techo-Talk-Study/tree/main/%EC%A3%BC%EC%A0%9C%EB%93%A4/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC), [영상](https://www.youtube.com/watch?v=qxmdX449z1U)
