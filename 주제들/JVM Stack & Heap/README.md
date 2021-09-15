@@ -4,4 +4,4 @@
 
 ### 이 영상을 시청한 사람
 
--
+- [gunny6026](https://github.com/gunny6026)
